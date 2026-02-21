@@ -107,6 +107,6 @@ This project is licensed under the MIT License.
 
 ---
 
-### Would you like me to help you write a "Technical Challenges" section for your LinkedIn post or GitHub to explain how you handled the 30-frame LSTM window?
+
 
 ```
